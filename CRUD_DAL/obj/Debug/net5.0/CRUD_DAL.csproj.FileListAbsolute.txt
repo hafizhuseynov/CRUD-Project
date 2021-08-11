@@ -1,0 +1,15 @@
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\bin\Debug\net5.0\CRUD_DAL.deps.json
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\bin\Debug\net5.0\CRUD_DAL.runtimeconfig.json
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\bin\Debug\net5.0\CRUD_DAL.runtimeconfig.dev.json
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\bin\Debug\net5.0\CRUD_DAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\bin\Debug\net5.0\ref\CRUD_DAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\bin\Debug\net5.0\CRUD_DAL.pdb
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.AssemblyInfo.cs
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\ref\CRUD_DAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.pdb
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.genruntimeconfig.cache
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_DAL\obj\Debug\net5.0\CRUD_DAL.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\bin\Debug\net5.0\CRUD_BAL.deps.json
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\bin\Debug\net5.0\CRUD_BAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\bin\Debug\net5.0\ref\CRUD_BAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\bin\Debug\net5.0\CRUD_BAL.pdb
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\bin\Debug\net5.0\CRUD_DAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\bin\Debug\net5.0\CRUD_DAL.pdb
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.AssemblyInfo.cs
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.csproj.CopyComplete
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\ref\CRUD_BAL.dll
+C:\Users\husey\source\repos\CRUDAspNetCore5WebAPI\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.pdb

@@ -1,0 +1,21 @@
+﻿@model IEnumerable<CRUD_DAL.Entities.Person>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NEPerson Core</a>.</p>
+    @{
+        foreach (var item in Model)
+        {
+            <h1>@item.UserName</h1>
+            <h1>@item.UserEmail</h1>
+            <h1>@item.CreatedOn</h1>
+            <h1>@item.IsDeleted</h1>
+        }
+
+        <br />
+    }
+
+</div>
